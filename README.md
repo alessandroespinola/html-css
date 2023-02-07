@@ -3,8 +3,8 @@
 
  Execução dos Exercícios:
 
- <a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq001/"> Exercicio 026  mq001 </a>
+ <a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq001/"> Exercicio 026  mq001 Versão para impressora </a>
 
-<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq002/"> Exercicio 026  mq002 </a>
+<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq002/"> Exercicio 026  mq002 Multiplas Media Features</a>
 
-<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq003/"> Exercicio 026  mq003 </a>
+<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq003/"> Exercicio 026  mq003 Reunindo tudo em um unico CSS </a>
