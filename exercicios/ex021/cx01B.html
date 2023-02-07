@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <title>Modelo de caixa</title>
+    <style>
+            h1{  /*  box-level */
+
+
+                /*display: inline pode se colocar tb porem nao pode colocar altura e largura;*/
+
+
+                background-color:rgb(202, 200, 200) ;
+                height: 300px;
+                width: 300px;
+
+                border: 10px solid darkslategray;
+                
+
+                
+
+                padding: 10px 10px 10px 10px;
+                 /* se vc tiver apenas um valor como 10 pra todos vc pode colocar apenas uma vez so 10*/
+
+                
+
+                margin: 20px auto 40px auto;
+
+                
+
+                outline: 12px dashed #2ba7e2e0;
+                
+            }
+
+            a{   /* inline-level, pode usar tb o display block que ficar em bloco tb como o exemplo abaixo  */
+
+                
+               
+
+                border: 4px solid aqua ;
+
+                
+
+                padding: 10px 20px;
+                outline: 3px double salmon ;
+
+                /* se colocar como o modelo anterior fica 10 em cima e 10 embaixo, 20 esquerdo e 20 direito*/
+
+
+            }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de caixa box-level</h1>
+    <p>Parágrafos também são exeplos de box-level, mas os <a href="#"> links sao exemplos de caixas inline-level</a>. Vamos ver como tudo isso funciona. </p>
+</body>
+</html>

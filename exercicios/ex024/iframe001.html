@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudos de Iframe</title>
+    <style>
+        iframe{
+            width: 300px;
+            height: 300px;
+            border: 1px solid black;
+
+        }
+
+
+    </style>
+    <!-- o que vale sempre e oq esta no css ou seja dentro do estilo, mesmo vc configurando la em baixo,
+    
+    sem nao tiver nenhuma confiuração oq vale e o padra Tamanho padrao 300x 150px-->
+    
+</head>
+<body>
+    <h1>Testando o uso de um Iframe</h1>
+
+    <p>acessando o site do
+
+        <!--Tamanho padrao 300x 150px-->
+
+        <!--scolling="000" no 
+         auto significa se  o conteudo  exceder o tamanho   o conteudo vai dar barra de rolagem,  yes nesse caso mesmo se o conteudo estivesse cabendo dentro daria a barra de rolagem( apareceria) e no caso do No mesmo q o conteudo for maior nao vai aparecer a barra, porem tem navegador que nao aceita.
+
+         frameborder cria a borda so tem duas coisas 0 ou qualquer numero, sempre vai dar borda d 1px
+         ou vc pode colocar o border no style
+        -->
+        
+        <iframe src="https://www.cursoemvideo.com/" frameborder="0" height="500" scolling="yes"> <a href="https://www.cursoemvideo.com/" target="_blank">curso em video</a></iframe>
+        
+        curso em video para aprender a programar.
+    
+    </p>
+
+    <p>
+
+        O repositório do Guanabara 
+
+        <iframe src="https://gustavoguanabara.github.io/" frameborder="0" height="300" width="300"> no <a href="https://gustavoguanabara.github.io/" target="_blank"> Repositório público do Prof. Gustavo Guanabara</a></iframe>
+    </p>
+    
+</body>
+</html>
