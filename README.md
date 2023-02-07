@@ -3,4 +3,4 @@
 
  Execução dos Exercícios:
 
-<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq002/"> Exercicio 026  mq002</a>
+<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq002/"> Exercicio 026  mq002 </a>
