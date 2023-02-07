@@ -6,11 +6,11 @@
 
 
 
- <a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq001/" target> Exercicio 026  mq001 Versão para impressora </a>
+ <a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq001/" target =" _blank " > Exercicio 026  mq001 Versão para impressora </a>
 
-<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq002/" target> Exercicio 026  mq002 Multiplas Media Features</a>
+<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq002/" target =" _blank " > Exercicio 026  mq002 Multiplas Media Features</a>
 
-<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq003/" target> Exercicio 026  mq003 Reunindo tudo em um unico CSS </a>
+<a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq003/" target =" _blank "  > Exercicio 026  mq003 Reunindo tudo em um unico CSS </a>
 
 
 
