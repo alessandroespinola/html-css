@@ -4,7 +4,7 @@
  Execução dos Exercícios:
 
 
-<a href="file:///C:/Users/aless/Desktop/Estudos%20Gustavo%20Guanabara/html-css/Desafios/desafio010/resposivo.html"> Desafio 09 </a>
+
 
  <a href="https://alessandroespinola.github.io/html-css/exercicios/ex026/mq001/"> Exercicio 026  mq001 Versão para impressora </a>
 
