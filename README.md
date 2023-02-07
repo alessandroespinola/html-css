@@ -14,4 +14,3 @@
 
 
 
-file:///C:/Users/aless/Desktop/Estudos%20Gustavo%20Guanabara/html-css/Desafios/desafio09/pag02.html
