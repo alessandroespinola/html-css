@@ -19,9 +19,21 @@ header > h1 {
   text-align: center;
   background-color: rgb(179, 184, 184);
 }
+ span {
+ background-color: rgb(48, 48, 48);
+ color: white;
+ display: block;
+ text-align: center;
+ padding: 10px;
+ cursor: pointer;
+}
+span:hover {
+  background-color: white;
+  color: black;
+}
 
 menu {
-  display: block;
+  display: none;
 }
 
 menu > ul {
