@@ -12,5 +12,5 @@
 
 <a href= "https://alessandroespinola.github.io/html-css/exercicios/ex026/mq004/" > Exercicio 026  mq004 Site Mobile First-Device Breakpoints.  </a>
 
-<a href= "http://127.0.0.1:5500/exercicios/ex026/mq005/index.html" > Exercicio 026 mq005 Menu amburguer. </a> 
+<a href= "https://alessandroespinola.github.io/html-css/exercicios/ex026/mq005/" > Exercicio 026 mq005 Menu amburguer. </a> 
 
