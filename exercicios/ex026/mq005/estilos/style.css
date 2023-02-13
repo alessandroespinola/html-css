@@ -26,6 +26,14 @@ span:hover {
   background-color: white;
   color: black;
 }
+span {
+   background-color: rgb(48, 48, 48); 
+   color: white;
+   display: block;
+   text-align: center;
+   padding: 3px;
+   cursor: pointer;
+}
 
 menu {
   display: none;
@@ -43,7 +51,7 @@ menu > ul > li > a {
   text-align: center;
   background-color: rgb rgb(54, 52, 52);
   color: white;
-  border-top: 2px solid rgb(196, 189, 189);
+  border-top: 2px solid rgb(173, 169, 169);
  
 }
 
