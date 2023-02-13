@@ -19,13 +19,7 @@ header > h1 {
   text-align: center;
   background-color: rgb(179, 184, 184);
 }
- span {
- background-color: rgb(48, 48, 48);
- color: white;
- display: block;
- text-align: center;
- padding: 10px;
- cursor: pointer;
+ 
  
 }
 span:hover {
@@ -50,6 +44,7 @@ menu > ul > li > a {
   background-color: rgb rgb(54, 52, 52);
   color: white;
   border-top: 2px solid rgb(196, 189, 189);
+ 
 }
 
 menu > ul > li > a:hover {
